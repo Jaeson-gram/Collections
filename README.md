@@ -1,2 +1,2 @@
 # Collections
-I explored the collection class, it's methods, and all that.
+Exploration of the collection class, and its methods. With a Cards game with suits and ranks for tests.
